@@ -1,0 +1,99 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    border: 0px;
+    background-color: rgb(160, 226, 252);
+    padding: 10px;
+    border-radius: 17px;
+}
+
+header a {
+    border: 0px;
+    background-color: white;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+h1 {
+    text-align: center;
+    color: orange;
+    font-size: 20px;
+}
+
+footer p {
+    border: 2px solid rgb(81, 80, 80);
+    padding: 5px;
+}
+
+nav a {
+    margin: 60px;
+    padding: 10px;
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    border: 3px solid navy;
+    border-radius: 10px;
+    background-color: navy;
+}
+
+header {
+    margin: 20px;
+}
+
+.buy {
+    background-color: white;
+    color: royalblue;
+}
+
+.sale {
+    background-color: white;
+    color: royalblue;  
+}
+
+select {
+    padding: 3px;
+    border: 2px solid lightgray;
+    font-size: 20px;
+}
+
+select option {
+    color: rgb(255, 106, 0)
+}
+
+.slap {
+    border: 3px solid navy;
+    border-radius: 13px;
+    padding: 5px;
+}
+
+.action {
+    color: blue;
+}
+
+.how {
+    color: blue;
+}
+
+.contacts {
+    color: blue;
+    border: 3px solid navy;
+    padding: 7px;
+    text-decoration: none;
+}
+
+.Fast {
+    color: blue;
+}
+
+.aboutus {
+    color: blue;
+}
+
+.upper {
+    color: navy;
+    border: 3px solid navy;
+    padding: 7px;
+    text-decoration: none;
+}
